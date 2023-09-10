@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Bootcamp Course Selector API is a robust and flexible Express-based RESTful API designed to empower students in choosing the ideal bootcamp program. Whether you're interested in Web Development, Mobile Development, UI/UX Design, Data Science, Business, or other fields, this API streamlines the process of managing bootcamps and their associated courses. It also features user authentication with JWT tokens and seamless integration with MongoDB for efficient data storage.
+The Bootcamp Finder API is a robust and flexible Express-based RESTful API designed to empower students in choosing the ideal bootcamp program. Whether you're interested in Web Development, Mobile Development, UI/UX Design, Data Science, Business, or other fields, this API streamlines the process of managing bootcamps and their associated courses. It also features user authentication with JWT tokens and seamless integration with MongoDB for efficient data storage.
 
 ## Key Features
 
