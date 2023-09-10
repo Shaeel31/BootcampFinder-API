@@ -1,4 +1,4 @@
-# Bootcamp Course Selector API
+# Bootcamp Finder API
 
 ## Overview
 
