@@ -16,6 +16,7 @@ const errorHandler = require('./middlewares/errorHandler')
 var app = express();
 const dotenv = require('dotenv')
 dotenv.config({ path: './config/.env' });
+
 connectDB()
 
 const definition  = {  
@@ -29,7 +30,7 @@ const definition  = {
 } 
 const options = {
   definition ,
-  apis: ['./routes/bootcamps.js']
+  apis: ['./routes/bootcamps.js' , './routes/users.js']
 } 
 const swaggerDocs = swaggerJSDoc(options);  
 

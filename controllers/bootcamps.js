@@ -1,6 +1,7 @@
 const bootcamp = require('../models/Bootcamp')
 const ErrorResponse = require('../utils/errorResponse')
 exports.getBootcamps = (req, res, next) => {
+    debugger
     res.status(200).json({
         status: true,
         msg: 'all bootcamps'
