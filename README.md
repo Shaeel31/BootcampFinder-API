@@ -68,7 +68,7 @@ Copy code
 npm start
 ### Access API Documentation:
 
-Visit http://localhost:3000/api-docs to explore and interact with the available endpoints.
+Visit http://localhost:3000/swagger to explore and interact with the available endpoints.
 
 ### Contributing
 Feel free to open issues, submit pull requests, or suggest improvements.
